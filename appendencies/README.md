@@ -1,0 +1,6 @@
+# Anhänge der Satzung
+
+- [Community Space Regeln](./rules.md)
+- [Server Administration](./admins.md)
+- [Moderatoren](./moderators.md)
+- [Liste der Zuständigkeiten des Vorstands](./responsibilities.md)
