@@ -2,7 +2,7 @@
 
 Diese Repository enthält organisatorische Dokumente der Anvilcraft Community. 
 Dazu zählen insbesondere die [Satzung der Anvilcraft Community](./bylaws.md) 
-sowie die [Anhänge der Satzung](./appendencies).
+sowie die [Anhänge der Satzung](./appendices).
 
 Die Satzung der Anvilcraft Community dient allein der internen Selbstverwaltung 
 der Anvilcraft Community. Die Anvilcraft Community ist kein Verein gemäß § 21 BGB. 
