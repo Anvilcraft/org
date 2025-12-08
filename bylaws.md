@@ -84,10 +84,10 @@ Vorstandsmitglied geleitet.
 Mitglied, das Präsidium oder ein Vorstandsmitglied eingebracht werden. Es kann 
 mit `Ja`, `Nein` oder `Enthaltung` abgestimmt werden. Der Antrag gilt als 
 angenommen, wenn dieser mehr `Ja` als `Nein` Stimmen erhält. Ist durch die 
-Satzung eine zweidrittel Mehrheit vorgesehen, so gilt er als angenommen, wenn
-mindestens zwei Drittel der abgegebenen Stimmen auf `Ja` entfallen. Den 
-Mitgliedern sind mindestens 48 Stunden Zeit zum abstimmen zu geben.
-Mitgliederabstimmungen finden online statt.
+Satzung eine Zweidrittelmehrheit vorgesehen, so gilt er als angenommen, wenn
+mindestens zwei Drittel der abgegebenen, von `Enthaltung` verschiedenen Stimmen 
+auf `Ja` entfallen. Den Mitgliedern sind mindestens 48 Stunden Zeit zum abstimmen 
+zu geben. Mitgliederabstimmungen finden online statt.
 
 (4) Verbindliche Folgen eines nach Absatz (3) angenommenen Antrags ergeben sich 
 aus der Satzung oder einem Anhang der Satzung. Bezieht sich der Antrag auf keine
@@ -313,7 +313,7 @@ durch ein Anvilcraft Mitglied vorgeschlagen wird. Wähler können für beliebig
 viele Kandidaten stimmen.
 
 (2) Nach der Wahl ist aus allen Kandidaten eine Liste zu bilden. Die Rangfolge 
-der Liste wird durch die Anzahle der Stimmen, die auf den entsprechenden 
+der Liste wird durch die Anzahl der Stimmen, die auf den entsprechenden 
 Kandidaten entfielen, bestimmt. Bei Stimmgleichheit sind entsprechende Kandidaten 
 auf dem gleichen Rang. 
 
@@ -356,7 +356,7 @@ Stimmen entfallen.
 steht dieser zur Wahl. Weitere Präsidiumsmitglieder können sich ebenfalls zur 
 Wahl stellen. Gewählt ist, auf wen die Mehrheit der gültigen Stimmen entfallen. 
 Erreicht niemand die Mehrheit, so findet eine Stichwahl zwischen dem Kandidaten, 
-auf den die meisten Stimmen entfielen, und dem Vorschalg nach Absatz (3) statt. 
+auf den die meisten Stimmen entfielen, und dem Vorschlag nach Absatz (3) statt. 
 Von der Stichwahl kann abgesehen werden, wenn die meisten Stimmen auf den 
 Vorschlag nach Absatz (3) entfielen.
 
