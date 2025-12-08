@@ -136,7 +136,8 @@ Beschlusses nicht Einstimmigkeit durch die Satzung gefordert ist.
 
 (4) Bei ordentlichen Sitzungen des Präsidiums zählen nicht abgegebene Stimmen
 als Enthaltung, bei außerordentlichen Sitzungen als Nein. Bei Beschlüssen, die 
-Einstimmigkeit erfordern zählen Enthaltungen als Nein.
+Einstimmigkeit erfordern zählen Enthaltungen als Nein. Anträge sind so zu stellen,
+dass eine Ablehnung keine Auswirkungen nach sich zieht.
 
 (5) Das Präsidium entscheidet selbst über den Ablauf und die Geschäftsordnung
 der Präsidiumssitzungen, sofern nicht bereits durch die Satzung geregelt.
@@ -171,8 +172,9 @@ Kalendermonat stattzufinden. Wird für einen Kalendermonat keine ordentliche
 Sitzung nach Absatz (1) beschlossen, so gilt die erste nach Absatz (3) 
 zusammengerufene Sitzung in dem entsprechenden Monat als ordentliche Sitzung.
 
-(5) Von Absatz (4) kann durch einstimmigen Beschluss des Präsidiums abgewichen 
-werden.
+(5) Von Absatz (3) Satz 2 kann aufgrund von [§7](#7) Absatz (5) abgewichen
+werden. Von Absatz (4) kann durch einstimmigen Beschluss des Präsidiums 
+abgewichen werden.
 
 ### §10
 
@@ -482,7 +484,8 @@ Mitgliederabstimmung eine einfache Mehrheit.
 
 (3) Satzungsänderungen, die [§11](#11) ändern oder §§12-14 abschaffen oder in 
 ihrer Wirkung einschränken oder Absatz (3) abschaffen oder in seiner Wirkung 
-einschränken, sind ungültig.
+einschränken, sind ungültig, sofern sie nicht durch die Gründer eingebracht
+wurden. [§11](#11) Absatz (2) ist entsprechend anzuwenden. 
 
 (4) Die Satzung sowie ihre Anhänge werden mit Git verwaltet. Änderungen treten 
 erst in Kraft, wenn diese in den `master` branch des nach [§14](#14) Absatz (2) 
