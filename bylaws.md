@@ -185,8 +185,8 @@ Die Sitzungsprotokolle sind zu veröffentlichen.
 (2) Abstimmungen im Präsidium sind namentlich durchzuführen und dem Protokoll 
 beizufügen.
 
-(3) Auf Beschluss des Präsidiums können über Absatz (1) und (2) hinaus weitere
-Inhalte dem Protokoll beigefügt werden.
+(3) Aufgrund von [§7](#7) Absatz (5) können über Absatz (1) und (2) hinaus 
+weitere Inhalte dem Protokoll beigefügt werden.
 
 (4) Das Präsidium hat über die Annahme des Protokolls in seiner jeweils nächsten 
 ordentlichen Sitzung abzustimmen. Durch Beschluss des Präsidiums kann das 
