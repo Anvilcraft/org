@@ -448,7 +448,7 @@ werden.
 
 (1) Zugangsdaten zu bestimmten Plattformen gemäß [§14](#14) Absatz (2) können
 auf Beschluss des Präsidiums im Rahmen von [§14](#14) Absatz (4) durch einen 
-Moderator verwaltet werden.
+Server Administrator verwaltet werden.
 
 (2) Zugangsdaten zu Servern werden im Rahmen von [§14](#14) Absatz (4) durch die
 Server Administratoren nach [§20](#20) Absatz (3) verwaltet.
