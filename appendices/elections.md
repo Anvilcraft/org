@@ -6,6 +6,5 @@ Für die Anvilcraft Wahl 2025 gilt gemäß [§15](../bylaws.md#15) Absatz (6):
 - §17 entfällt
 - §18 Absatz (1) wird ergänzt durch "Wähler können bei der Stimmabgabe ihre 
 Stimme für nicht zuvor vorgeschlagene Kadidaten abgeben, indem sie diese
-namentlich nennen. Die namentliche Nennung ist nur gültig, sofern diese
-eindeutig ist. Kandidaten, für die durch namentliche Nennung abgestimmt wurde,
-können ihre Wahl ablehnen"
+namentlich nennen. Die Wahl durch namentliche Nennung ist nur gültig, sofern 
+diese eindeutig ist und der Kandidat diese annimmt."
