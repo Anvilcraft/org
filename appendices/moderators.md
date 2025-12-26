@@ -1,4 +1,4 @@
-# Moderatoren
+# Anhang 3: Moderatoren
 
 Folgende Personen sind die Moderatoren gemäß [§24](../bylaws.md#24) Absatz (1):
 - `ACGaming`

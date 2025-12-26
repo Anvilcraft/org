@@ -1,4 +1,4 @@
-# Abweichung von den Wahlvorschriften
+# Anhang 6: Abweichung von den Wahlvorschriften
 
 Für die Anvilcraft Wahl 2025 gilt gemäß [§15](../bylaws.md#15) Absatz (6):
 - Abweichend von §15 Absatz (3) gilt "Jeder Wahlberechtigte hat zwei Stimmen nach

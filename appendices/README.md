@@ -1,8 +1,8 @@
 # Anhänge der Satzung
 
-- [Community Space Regeln](./rules.md)
-- [Server Administration](./admins.md)
-- [Moderatoren](./moderators.md)
-- [Liste der Zuständigkeiten des Vorstands](./responsibilities.md)
-- [Änderungen von Dokumenten und Spezifikationen](./documents.md)
-- [Abweichung von den Wahlvorschriften](./elections.md)
+1. [Community Space Regeln](./rules.md)
+2. [Server Administration](./admins.md)
+3. [Moderatoren](./moderators.md)
+4. [Liste der Zuständigkeiten des Vorstands](./responsibilities.md)
+5. [Änderungen von Dokumenten und Spezifikationen](./documents.md)
+6. [Abweichung von den Wahlvorschriften](./elections.md)
