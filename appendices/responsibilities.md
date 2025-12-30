@@ -1,4 +1,4 @@
-# Liste der Zuständigkeiten des Vorstands
+# Anhang 4: Liste der Zuständigkeiten des Vorstands
 
 Folgende Zuständigkeitsbereiche werden gemäß [§21](../bylaws.md#21) festgelegt:
 - Community
