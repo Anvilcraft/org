@@ -531,23 +531,3 @@ mehr als einem Fünftel der Anzahl der Anvilcraft Mitglieder entsprechen.
 (3) Ein Anhang der Satzung, der Stimmrechte nach Absatz (1) verleiht, kann 
 ausschließlich gemäß [§28](#28) Absatz (2) oder (3) geändert werden. Eine 
 Änderung nach [§29](#29) Absatz (1) ist ausgeschlossen. 
-
-## Sonstige
-
-### §31
-
-(1) Mit Inkrafttreten der Satzung gilt jeder, der die `Member` Rolle auf dem 
-Anvilcraft Discord hat, als Anvilcraft Mitglied gemäß [§1](#1). Entsprechende
-Regelung gilt für die Content Creators.
-
-(2) Mit Inkrafttreten der Satzung gilt, bis zur Wahl des ersten Präsidiums, 
-tilera als Präsident nach [§8](#8). 
-
-(3) Das Präsidium hat innerhalb von 4 Monaten nach seiner Wahl den Anvilcraft 
-Mitgliedern einen Vorschlag zu einer Satzungsänderung nach [§27](#27) zu machen. 
-Die entsprechend vorgeschlagene Satzungsänderung muss die Abschaffung von 
-[§31](#31) sowie die Ergänzung eine Präambel enthalten. Der Vorschlag kann 
-darüber hinausgehende Änderungen enhalten.
-
-(4) Auf Entscheidung eines Gründers kann von [§15](#15) Absatz (1) Satz 2
-abgewichen werden.
