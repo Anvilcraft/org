@@ -517,6 +517,11 @@ jeweilige Dokument.
 Satzungsänderung erforderlichen Mehrheit gemäß [§27](#27) Absatz (2) beschlossen 
 wird.
 
+(3) Eine Änderung eines Anhangs der Satzung, welche eine Regelung nach Absatz (1)
+hinzufügt oder eine bestehende Regelung nach Absatz (1) um weitere Dokumente
+erweitert oder eine Einschränkung einer Regelung nach Absatz (1) streicht, kann
+ausschließlich gemäß [§28](#28) Absatz (2) oder (3) beschlossen werden.
+
 ### §30
 
 (1) Durch einen Anhang der Satzung können Stimmrechte bei Wahlen, 
