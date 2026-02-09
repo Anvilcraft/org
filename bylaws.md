@@ -366,67 +366,74 @@ Vorschlag nach Absatz (3) entfielen.
 
 ### §20
 
-(1) Der Vorstand besteht aus dem Vorstandsvorsitzenden, den Server 
-Administratoren und weiteren Vorstandsmitgliedern.
+(1) Der Vorstand besteht aus dem Präsidenten, den Server Administratoren und 
+weiteren Vorstandsmitgliedern.
 
-(2) Der Vorstandsvorsitzende wird durch den Präsidenten benannt. Der Präsident 
-kann jederzeit einen neuen Vorsitzenden benennen.
+(2) Die Server Administratoren werden durch einen Anhang der Satzung festgelegt.
 
-(3) Die Server Administratoren werden durch einen Anhang der Satzung festgelegt.
-
-(4) Weitere Vorstandsmitglieder können jederzeit durch das Präsidium gewählt oder 
+(3) Weitere Vorstandsmitglieder können jederzeit durch das Präsidium gewählt oder 
 abgewählt werden.
 
-(5) Das Anvilcraft Team wird durch den Vorstand geleitet.
+(4) Das Anvilcraft Team wird durch den Vorstand geleitet.
 
 ### §21
 
-(1) Neben dem Vorsitzenden und den Server Administratoren ist jedem 
-Vorstandsmitglied ein Zuständigkeitsbereich zugewiesen. Bei der Wahl eines neuen 
-Vorstandsmitglieds ist für dieses ein Zuständigkeitsbereich festzulegen. 
-Vorstandsmitgliedern können mehrere Zuständigkeitsbereiche zugewiesen sein.
+(1) Neben dem Präsidenten und den Server Administratoren ist jedem 
+Vorstandsmitglied ein Geschäftsbereich zugewiesen. Bei der Wahl eines neuen 
+Vorstandsmitglieds ist für dieses ein Geschäftsbereich festzulegen. 
+Vorstandsmitgliedern können mehrere Geschäftsbereiche zugewiesen sein.
 
-(2) Alle Zuständigkeitsbereiche werden durch einen Anhang der Satzung definiert.
+(2) Die Geschäftsbereiche werden durch einen Anhang der Satzung festgelegt.
 
 (3) Das Präsidium kann jederzeit durch Beschluss die Zuweisung der 
-Zuständigkeitsbereiche ändern. Führt diese Änderung dazu, dass einem 
-Vorstandsmitglied kein Zuständigkeitsbereich zugewiesen ist, gilt dies als eine 
-Abwahl nach [§20](#20) Absatz (4).
+Geschäftsbereiche ändern. Führt diese Änderung dazu, dass einem Vorstandsmitglied 
+kein Geschäftsbereich zugewiesen ist, gilt dies als eine Abwahl nach [§20](#20) 
+Absatz (3).
 
-(4) Vorstandsmitglieder leiten ihre Zuständigkeitsbereiche eigenständig innerhalb 
+(4) Vorstandsmitglieder leiten ihre Geschäftsbereiche eigenständig innerhalb 
 der Vorgaben des Präsidiums. Das Anvilcraft Team ist innerhalb eines 
-Zuständigkeitsbereichs an die Vorgaben des entsprechenden Vorstandsmitglieds 
-gebunden.
+Geschäftsbereichs an die Vorgaben des entsprechenden Vorstandsmitglieds gebunden.
 
 ### §22
 
-(1) Der Vorstandsvorsitzende ist für die Zusammenarbeit innerhalb des Vorstands 
-verantwortlich und vertritt den Vorstand gegenüber den Präsidium und den 
-Mitgliedern.
+(1) Der Vorstand wird durch den Präsidenten geleitet und gegenüber dem Präsidium
+und den Mitgliedern vertreten.
 
-(2) Der Vorstandsvorsitzende trifft Entscheidungen in Bereichen, die zu keinem 
-Zuständigkeitsbereich gehören, in Zuständigkeitsbereichen, die keinem 
-Vorstandsmitglied zugewiesen sind und bei Unklarheiten, in welchen 
-Zuständigkeitsbereich eine Entscheidung fällt.
+(2) Der Präsident ist für die Zusammenarbeit innerhalb des Vorstands 
+verwantwortlich und entschiedet bei Unklarheiten, in welchen Geschäftsbereich 
+eine Entscheidung fällt, sowie bei sonstigen Konflikten innerhalb des Vorstands.
 
-(3) Dem Vorsitzenden und den Server Administratoren können Zuständigkeitsbereiche 
-zugewiesen werden.
+(3) Dem Präsidenten und den Server Administratoren können Geschäftsbereiche 
+zugewiesen werden. Wir ein Vorstandsmitglied zum Präsidenten gewählt so behält
+dieses die ihm zugewiesenen Geschäftsbereiche.
 
-(4) Wird ein neuer Vorstandsvorsitzender benannt, so bleibt der alte 
-Vorstandsvorsitzende Mitglied des Vorstands, sofern ihm ein Zuständigkeitsbereich 
-zugewiesen ist.
+(4) Der Präsident bleibt auch nach Ende seiner Amtszeit Mitglied des Vorstands,
+sofern ihm ein Geschäftsbereich zugewiesen ist.
 
-(5) Wird ein Mitglied des Vorstands zum Vorstandsvorsitzenden benannt, so bleiben 
-dessen  Zuständigkeitsbereiche ihm weiterhin zugewiesen.
+(5) Ist ein Geschäftsbereich keinem Vorstandsmitglied zugewiesen, so kann der
+Präsident diesen einem Vorstandsmitglied zuweisen oder ein weiteres 
+Vorstandsmitglied für diesen Geschäftsbereich benennen. Der Präsident hat in der
+jeweils nächsten Präsidiumssitzung eine entsprechende Entscheidung zu Protokoll
+zu geben und das Präsidium zu informieren.
+
+(6) Der Präsident kann ein Vorstandsmitglied zu seinem Stellvertreter im Vorstand
+benennen. Dieser kann alle sich aus §22 ergebenen Befugnisse des Präsidenten
+stellvertretend für diesen ausüben.
 
 ### §23
 
 (1) Die Server Administratoren sind für die Verwaltung der Server der Anvilcraft 
 Community verantwortlich.
 
-(2) Entscheidungen der Server Administratoren werden durch diese gemeinsam oder 
-durch einen vom Präsidium oder Vorstandsvorsitzenden bestimmten Server 
-Administrator getroffen.
+(2) Zugangsdaten zu bestimmten Plattformen gemäß [§14](#14) Absatz (2) können
+auf Beschluss des Präsidiums im Rahmen von [§14](#14) Absatz (4) durch einen 
+Server Administrator verwaltet werden.
+
+(3) Zugangsdaten zu Servern werden im Rahmen von [§14](#14) Absatz (4) durch die
+Server Administratoren verwaltet.
+
+(4) Die sich aus [§14](#14) ergebenden Bestimmungen bleiben durch Absatz (2) 
+und (3) unberührt.
 
 ## Moderatoren
 
@@ -446,15 +453,7 @@ werden.
 
 ### §25
 
-(1) Zugangsdaten zu bestimmten Plattformen gemäß [§14](#14) Absatz (2) können
-auf Beschluss des Präsidiums im Rahmen von [§14](#14) Absatz (4) durch einen 
-Server Administrator verwaltet werden.
-
-(2) Zugangsdaten zu Servern werden im Rahmen von [§14](#14) Absatz (4) durch die
-Server Administratoren nach [§20](#20) Absatz (3) verwaltet.
-
-(3) Die sich aus [§14](#14) ergebenden Bestimmungen bleiben durch 
-Absatz (1) und (2) unberührt.
+(weggefallen)
 
 ## Dokumente
 
