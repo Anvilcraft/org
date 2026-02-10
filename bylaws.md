@@ -111,8 +111,8 @@ Geschäftsordnung der Sitzung, sofern nicht bereits durch die Satzung geregelt.
 
 (1) Mit der Anvilcraft Community in Verbindung stehende Content Creators können
 an Entscheidungen der Anvilcraft Community mitwirken. Hierfür werden sie im 
-Präsidium durch ein nach [§17](#17) gewähltes Präsidiumsmitglied vertreten.
-Genaueres, sowie das Vorschlagsrecht für Kandidaten nach [§17](#17), wird durch 
+Präsidium durch ein nach [§15](#15) gewähltes Präsidiumsmitglied vertreten.
+Genaueres, sowie das Vorschlagsrecht für Kandidaten nach [§15](#15), wird durch 
 einen Anhang der Satzung geregelt. 
 
 (2) Als Content Creator gilt, wer aktiv Modded Minecraft Inhalte wie Mods, 
@@ -143,8 +143,14 @@ dass eine Ablehnung keine Auswirkungen nach sich zieht.
 der Präsidiumssitzungen, sofern nicht bereits durch die Satzung geregelt.
 
 (6) Auf Beschluss des Präsidiums kann die Anzahl seiner Mitglieder abweichend von
-Absatz (1) bis zur nächsten Wahl auf 7 erhöht werden. Die zusätzlichen Sitze 
-im Präsidiums sind gemäß [§18](#18) Absatz (4) zu besetzen.
+Absatz (1) bis zur nächsten Wahl auf 7 erhöht werden. Zur nächträglichen 
+Besetzung ist das letzte Wahlergebnis heranzuziehen. Von Satz 2 kann abgewichen
+werden, indem das Präsidium einstimmig ein neues Präsidiumsmitglied wählt.
+
+(7) Ist die Anzahl der tatsächlichen Präsidiumsmitglieder geringer als die in
+Absatz (1) vorgesehende Besetzung, so kann der Präsident einen Moderator der
+Anvilcraft Community in das Präsidium benennen. Das Präsidium bleibt auch dann
+beschlussfähig, wenn es nicht vollständig besetzt ist.
 
 ### §8
 
@@ -252,14 +258,13 @@ sind entsprechende Zugangsdaten an die Gründer zu übertragen.
 
 (1) Die Wahl des Präsidiums findet jährlich im Dezember statt. Der genaue Termin 
 wird durch den Wahlleiter festgelegt und muss mindestens 2 Wochen vorher bekannt 
-gegeben werden. Zur Stimmabgabe sind mindestens 72 Stunden Zeit zu geben. 
-Wahlvorschläge können bis zu 24 Stunden vor der Wahl eingereicht werden. Die Wahl 
-findet online statt.
+gegeben werden. Zur Stimmabgabe sind mindestens 72 Stunden Zeit zu geben. Die 
+Wahl findet online statt.
 
 (2) Wahlberechtigt sind alle Anvilcraft Mitglieder sowie weitere Vertreter, die 
 nach der Satzung das Wahlrecht haben.
 
-(3) Jeder Wahlberechtigte hat drei Stimmen nach §§16-18.
+(3) Jeder Wahlberechtigte hat das Recht, Kandidaten für die Wahl vorzuschlagen.
 
 (4) Das neu gewählte Präsidium wird durch den Präsidenten spätestens 2 Wochen 
 nach der Wahl einberufen. Mit zusammentreten des neuen Präsidiums endet die 
@@ -273,94 +278,33 @@ dieser nicht Mitglied des neuen Präsidiums ist.
 sicherzustellen, dass nur Stimmen von Wahlberechtigten gezählt werden und das 
 Wahlgeheimnis gewahrt wird.
 
-(6) Von Absatz (1) Satz 1, Absatz (3) sowie §§16-19 kann auf Grund eines Anhangs
-der Satzung abgewichen werden. Eine Rückkehr zu den Bestimmungen aus Absatz (1) 
-Satz 1, Absatz (3) sowie §§16-19 ist jederzeit durch eine Mitgliederabstimmung
-gemäß [§5](#5) Absatz (3) ohne Änderung des entsprechenden Anhangs der Satzung 
-möglich. Der entsprechende Beschluss ist bis zur nächsten Wahl des Präsidiums 
-gültig.
+(6) Zur Vertretung der Content Creators im Präsidium muss nach der Wahl 
+mindestens ein nach [§6](#6) vorgeschlagener Kandidat in das Präsidium gewählt 
+worden sein, sofern es entsprechende Vorschläge gab.
+
+(7) Die Wahl des Präsidenten kann zusammen mit der Präsidiumswahl oder in einer
+seperaten Wahl stattfinden. Der Präsident wird spätestens 21 Tage nach der Wahl 
+des Präsidiums gewählt.
+
+(8) Genaueres wird durch einen Anhang der Satzung geregelt. Ein entsprechender
+Anhang darf keiner satzungsmäßigen Bestimmung widersprechen und muss insbesondere
+die Umsetzung von Absatz (3) und (6) sicherstellen.
 
 ### §16
 
-(1) Mit der Erststimme wird über die Wiederwahl des aktuellen Präsidenten 
-abgestimmt. Wähler können mit `Ja`, `Nein` oder `Enthaltung` stimmen.
-
-(2) Erhält der Präsident mehr `Ja` als `Nein` Stimmen, ist er als Präsident 
-wiedergewählt und bleibt Mitglied des Präsidiums. Die Wahl des Präsidenten nach 
-[§19](#19) entfällt.
-
-(3) Wird der Präsident nicht nach Absatz (2) wiedergewählt, so kann er trotzdem 
-nach [§17](#17) oder [§18](#18) in das Präsidium gewählt werden und nach 
-[§19](#19) erneut zum Präsidenten gewählt werden.
-
-(4) Lehnt der nach Absatz (2) wiedergewählte Präsident die Wahl ab, so gilt er 
-als nicht wiedergewählt.
+(weggefallen)
 
 ### §17
 
-(1) Mit der Zweitstimme wird über die nach [§6](#6) vorgeschlagen Kandidaten 
-abgestimmt. Wähler können für einen der Kandidaten stimmen oder sich enthalten.
-
-(2) Der Kandidat, auf den die meisten Stimmen entfallen, ist in das Präsidium 
-gewählt. Wer bereits nach [§16](#16) gewählt wurde, wird bei der Stimmauszählung 
-nicht berücksichtigt. Bei Stimmgleichheit ist durch Stichwahl zu entscheiden.
-
-(3) Wurde kein Kandidat vorgeschlagen oder wurde der einzige Kandidat bereits 
-nach [§16](#16) gewählt, so fällt die Zweitstimme weg.
+(weggefallen)
 
 ### §18
 
-(1) Für die Drittstimme kann jeder kandidieren, der Anvilcraft Mitglied ist oder 
-durch ein Anvilcraft Mitglied vorgeschlagen wird. Wähler können für beliebig 
-viele Kandidaten stimmen.
-
-(2) Nach der Wahl ist aus allen Kandidaten eine Liste zu bilden. Die Rangfolge 
-der Liste wird durch die Anzahl der Stimmen, die auf den entsprechenden 
-Kandidaten entfielen, bestimmt. Bei Stimmgleichheit sind entsprechende Kandidaten 
-auf dem gleichen Rang. 
-
-(3) Wer bereits nach [§16](#16) oder [§17](#17) in das Präsidium gewählt wurde 
-oder nach [§12](#12) in das Präsidium benannt wurde wird bei der Bildung der 
-Liste nach Absatz (2) nicht berücksichtigt. 
-
-(4) Sitze im Präsidium, welche nach der Wahl nach [§16](#16) und [§17](#17) sowie 
-der Benennung nach [§12](#12) noch nicht besetzt sind, werden durch die 
-Kandidaten der Liste nach Absatz (2) entsprechend ihrer Rangfolge besetzt. Sind 
-Präsidiumssitze von einem Rang, der durch mehrere Kandidaten geteilt wird, zu 
-besetzen, so hat eine Stichwahl zwischen den entsprechenden Kandidaten 
-stattzufinden.
-
-(5) Auf eine Stichwahl nach Absatz (4) oder [§17](#17) Absatz (2) kann verzichtet 
-werden, wenn das Ergebnis der Stichwahl nicht die Zusammensetzung des Präsidiums 
-beeinflusst.
-
-(6) Enthält die Liste nach Absatz (2) nicht genug Kandidaten um das Präsidium 
-vollständig zu besetzen, so kann der Präsident entsprechend Moderatoren in das 
-Präsidium benennen.
+(weggefallen)
 
 ### §19
 
-(1) Der Präsident wird spätestens 2 Wochen nach der Wahl des Präsidiums, 
-frühestens jedoch nach der ersten Sitzung des Präsidiums, gewählt.
-
-(2) Die Wahl des Präsidenten entfällt, wenn der Präsident nach [§16](#16) 
-Absatz (2) wiedergewählt wurde oder das Präsidium in seiner ersten Sitzung einen 
-Präsidenten gemäß [§8](#8) Absatz (3) wählt.
-
-(3) Das Präsidium kann den Anvilcraft Mitgliedern ein Präsidiumsmitglied zum 
-Präsidenten vorschlagen.
-
-(4) Gibt es bei der Wahl des Präsidenten keinen Vorschlag nach Absatz (3), so 
-stehen alle Präsidiumsmitglieder zur Wahl. Gewählt ist, auf wen die meisten 
-Stimmen entfallen.
-
-(5) Gibt es bei der Wahl des Präsidenten einen Vorschlag nach Absatz (3), so 
-steht dieser zur Wahl. Weitere Präsidiumsmitglieder können sich ebenfalls zur 
-Wahl stellen. Gewählt ist, auf wen die Mehrheit der gültigen Stimmen entfallen. 
-Erreicht niemand die Mehrheit, so findet eine Stichwahl zwischen dem Kandidaten, 
-auf den die meisten Stimmen entfielen, und dem Vorschlag nach Absatz (3) statt. 
-Von der Stichwahl kann abgesehen werden, wenn die meisten Stimmen auf den 
-Vorschlag nach Absatz (3) entfielen.
+(weggefallen)
 
 ## Vorstand
 
