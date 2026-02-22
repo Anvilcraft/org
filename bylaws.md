@@ -218,6 +218,11 @@ Absatz (4) verändert werden.
 (2) Die Gründer organisieren ihre Angelegenheiten sowie die Ausübung ihrer
 Befugnisse eigenständig.
 
+(3) Satzungsänderungen, die §11 ändern oder die satzungsmäßigen Rechte der 
+Gründer abschaffen oder in ihrer Wirkung einschränken, sind unzulässig, sofern 
+diese nicht durch die Gründer eingebracht wurden. Absatz (2) ist entsprechend 
+anzuwenden. 
+
 ### §12
 
 (1) Die Gründer haben das Recht, jeweils ein Präsidiumsmitglied zu benennen.
@@ -430,12 +435,7 @@ zweidrittel Mehrheit bei einer Mitgliederabstimmung erforderlich. Wurde der
 Beschluss des Präsidiums einstimmig geschlossen, so reicht bei der 
 Mitgliederabstimmung eine einfache Mehrheit.
 
-(3) Satzungsänderungen, die [§11](#11) ändern oder §§12-14 abschaffen oder in 
-ihrer Wirkung einschränken oder Absatz (3) abschaffen oder in seiner Wirkung 
-einschränken, sind ungültig, sofern sie nicht durch die Gründer eingebracht
-wurden. [§11](#11) Absatz (2) ist entsprechend anzuwenden. 
-
-(4) Die Satzung sowie ihre Anhänge werden mit Git verwaltet. Änderungen treten 
+(3) Die Satzung sowie ihre Anhänge werden mit Git verwaltet. Änderungen treten 
 erst in Kraft, wenn diese in den `master` branch des nach [§14](#14) Absatz (2) 
 durch die Gründer für die Satzung vorgesehenen Git-Repositories gemerged wurden.
 
