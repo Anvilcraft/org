@@ -54,21 +54,13 @@ werden.
 durch einen Moderator beantragt werden.
 
 (2) Der Antrag auf Ausschluss nach Absatz (1) ist durch das Präsidium zu prüfen. 
-Für die Annahme des Antrags ist ein Einstimmiger Beschluss des Präsidiums 
-erforderlich.
+Für die Annahme des Antrags ist ein Beschluss des Präsidiums erforderlich.
 
-(3) Gegen den Beschluss zum Ausschluss nach Absatz (2) kann durch einen Moderator 
-Einspruch eingelegt werden. Ein Einspruch führt dazu, dass der Beschluss ungültig 
-wird, bis der Einspruch durch den Moderator zurückgenommen oder gemäß Absatz (5) 
-abgelehnt wird.
-
-(4) Das ausgeschlossene Mitglied sowie andere Mitglieder haben das Recht, 
-Widerspruch gegen den Beschluss nach Absatz (2) einzulegen. Über den Widerspruch
-ist gemäß [§5](#5) Absatz (3) abzustimmen. Wird der Widerspruch angenommen, so 
-ist der Beschluss über den Ausschluss ungültig.
-
-(5) Der Einspruch eines Moderators gegen den Ausschluss eines Mitglieds kann 
-durch einen Beschluss der Mitglieder nach [§5](#5) Absatz (3) abgelehnt werden.
+(3) Gegen den Beschluss zum Ausschluss nach Absatz (2) kann durch einen Moderator,
+ein Präsidiumsmitglied oder einen Beschluss der Mitgliederversammlung Einspruch 
+eingelegt werden. Ein Einspruch führt dazu, dass der Beschluss ungültig wird,
+bis der Einspruch zurückgenommen oder durch einen Beschluss der Mitglieder nach 
+[§5](#5) Absatz (3) abgelehnt wurde.
 
 ### §5
 
