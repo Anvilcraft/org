@@ -400,11 +400,11 @@ Geschäftsbereichs an die Vorgaben des entsprechenden Vorstandsmitglieds gebunde
 und den Mitgliedern vertreten.
 
 (2) Der Präsident ist für die Zusammenarbeit innerhalb des Vorstands 
-verwantwortlich und entschiedet bei Unklarheiten, in welchen Geschäftsbereich 
+verantwortlich und entscheidet bei Unklarheiten, in welchen Geschäftsbereich 
 eine Entscheidung fällt, sowie bei sonstigen Konflikten innerhalb des Vorstands.
 
 (3) Dem Präsidenten und den Server Administratoren können Geschäftsbereiche 
-zugewiesen werden. Wir ein Vorstandsmitglied zum Präsidenten gewählt so behält
+zugewiesen werden. Wird ein Vorstandsmitglied zum Präsidenten gewählt, so behält
 dieses die ihm zugewiesenen Geschäftsbereiche.
 
 (4) Der Präsident bleibt auch nach Ende seiner Amtszeit Mitglied des Vorstands,
@@ -417,7 +417,7 @@ jeweils nächsten Präsidiumssitzung eine entsprechende Entscheidung zu Protokol
 zu geben und das Präsidium zu informieren.
 
 (6) Der Präsident kann ein Vorstandsmitglied zu seinem Stellvertreter im Vorstand
-benennen. Dieser kann alle sich aus §22 ergebenen Befugnisse des Präsidenten
+benennen. Dieser kann alle sich aus §22 ergebenden Befugnisse des Präsidenten
 stellvertretend für diesen ausüben.
 
 ### §23
