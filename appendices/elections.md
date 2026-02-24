@@ -9,7 +9,7 @@ bei der Wahl gemäß IV. Absatz (1) Satz 3 eingebracht werden.
 (2) Jeder Wahlberechtigte hat bei der Wahl des Präsidiums drei Stimmen. Diese
 sind gemäß II.-IV. geregelt.
 
-(3) Zur nachträglichen Besetzung des Präsidiums gemäß §7 Absatz (6) ist die Liste
+(3) Zur nachträglichen Besetzung des Präsidiums gemäß §7 Absatz (7) ist die Liste
 nach IV. Absatz (2) zu verwenden.
 
 ## II. Erststimme
@@ -30,7 +30,7 @@ als nicht wiedergewählt.
 
 ## III. Zweitstimme
 
-(1) Mit der Zweitstimme wird über die nach [§6](#6) vorgeschlagen Kandidaten 
+(1) Mit der Zweitstimme wird über die nach §6 vorgeschlagen Kandidaten 
 abgestimmt. Wähler können für einen der Kandidaten stimmen oder sich enthalten.
 
 (2) Der Kandidat, auf den die meisten Stimmen entfallen, ist in das Präsidium 
@@ -54,13 +54,13 @@ der Liste wird durch die Anzahl der Stimmen, die auf den entsprechenden
 Kandidaten entfielen, bestimmt. Bei Stimmgleichheit sind entsprechende Kandidaten 
 auf dem gleichen Rang. 
 
-(3) Wer bereits nach II. oder III. in das Präsidium gewählt wurde oder nach 
-[§12](#12) in das Präsidium benannt wurde wird bei der Bildung der Liste nach 
-Absatz (2) nicht berücksichtigt. 
+(3) Wer bereits nach II. oder III. in das Präsidium gewählt wurde oder nach §12
+in das Präsidium benannt wurde wird bei der Bildung der Liste nach Absatz (2) 
+nicht berücksichtigt. 
 
 (4) Sitze im Präsidium, welche nach der Wahl nach II. und III. sowie der 
-Benennung nach [§12](#12) noch nicht besetzt sind, werden durch die Kandidaten 
-der Liste nach Absatz (2) entsprechend ihrer Rangfolge besetzt. Sind 
+Benennung nach §12 noch nicht besetzt sind, werden durch die Kandidaten der 
+Liste nach Absatz (2) entsprechend ihrer Rangfolge besetzt. Sind 
 Präsidiumssitze von einem Rang, der durch mehrere Kandidaten geteilt wird, zu 
 besetzen, so hat eine Stichwahl zwischen den entsprechenden Kandidaten 
 stattzufinden.
@@ -76,7 +76,7 @@ frühestens jedoch nach der ersten Sitzung des Präsidiums, gewählt.
 
 (2) Die Wahl des Präsidenten entfällt, wenn der Präsident nach II. Absatz (2) 
 wiedergewählt wurde oder das Präsidium in seiner ersten Sitzung einen Präsidenten 
-gemäß [§8](#8) Absatz (3) wählt.
+gemäß §8 Absatz (3) wählt.
 
 (3) Das Präsidium kann den Anvilcraft Mitgliedern ein Präsidiumsmitglied zum 
 Präsidenten vorschlagen.

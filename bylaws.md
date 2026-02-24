@@ -143,14 +143,15 @@ dass eine Ablehnung keine Auswirkungen nach sich zieht.
 der Präsidiumssitzungen, sofern nicht bereits durch die Satzung geregelt.
 
 (6) Auf Beschluss des Präsidiums kann die Anzahl seiner Mitglieder abweichend von
-Absatz (1) bis zur nächsten Wahl auf 7 erhöht werden. Zur nächträglichen 
-Besetzung ist das letzte Wahlergebnis heranzuziehen. Von Satz 2 kann abgewichen
-werden, indem das Präsidium einstimmig ein neues Präsidiumsmitglied wählt.
+Absatz (1) bis zur nächsten Wahl auf 7 erhöht werden. Absatz (7) ist 
+entsprechend anzuwenden.
 
 (7) Ist die Anzahl der tatsächlichen Präsidiumsmitglieder geringer als die in
-Absatz (1) vorgesehende Besetzung, so kann der Präsident einen Moderator der
-Anvilcraft Community in das Präsidium benennen. Das Präsidium bleibt auch dann
-beschlussfähig, wenn es nicht vollständig besetzt ist.
+Absatz (1) vorgesehende Besetzung, so ist eine Nachbesetzung des Präsidiums 
+möglich, indem das Präsidium einstimmig ein neues Präsidiumsmitglied wählt, das 
+letzte Wahlergebnis zur Nachbesetzung herangezogen wird oder der Präsident einen 
+Moderator der Anvilcraft Community in das Präsidium benennt. Das Präsidium 
+bleibt auch dann beschlussfähig, wenn es nicht vollständig besetzt ist.
 
 ### §8
 
@@ -161,6 +162,10 @@ des Präsidiums.
 
 (3) Von Absatz (2) kann abgewichen werden, wenn das Präsidium einstimmig eines 
 seiner Mitglieder zum Präsidenten wählt.
+
+(4) Scheidet der Präsident vorzeitig aus dem Präsidium aus, so ist aus den 
+verbleibenden Präsidiumsmitgliedern ein neuer Präsident gemäß Absatz (2) 
+oder (3) zu wählen.
 
 ### §9
 
