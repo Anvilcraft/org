@@ -67,7 +67,9 @@ bis der Einspruch zurückgenommen oder durch einen Beschluss der Mitglieder nach
 (1) Die Mitgliederversammlung wird durch das zuständige Vorstandsmitglied 
 einberufen und geleitet. Die Mitglieder sind mindestens 7 Tage vor der 
 Mitgliederversammlung über diese zu informieren. Mitgliederversammlungen finden 
-online statt.
+online statt. Auf Wunsch von mindestens einem Fünftel der Mitglieder hat das 
+zuständige Vorstandsmitglied die Mitgliederversammlung innerhalb von 21 Tagen 
+einzuberufen.
 
 (2) Mitgliederabstimmungen und Wahlen werden durch das zuständige 
 Vorstandsmitglied geleitet. 
@@ -98,6 +100,16 @@ ihre Stimme abzugeben.
 
 (7) Die Mitgliederversammlung entscheidet selbst über den Ablauf und die 
 Geschäftsordnung der Sitzung, sofern nicht bereits durch die Satzung geregelt.
+Stimm- und teilnahmeberechtigt sind alle Mitglieder im Sinne von [§1](#1). Des
+weiteren teilnahmeberechtigt, allerdings ohne Stimmrecht, sind Mitglieder des 
+Präsidiums und des Vorstands sowie Content Creators nach [§6](#6). Weitere 
+Teilnehmer können durch das Präsidium, den Vorstand oder eine Gruppe von 
+mindestens einem Fünftel der Mitglieder eingeladen werden.
+
+(8) Das zuständige Vorstandsmitglied hat das Präsidium über die Ergebnisse von
+Mitgliederabstimmungen, Wahlen und Mitgliederversammlungen zu informieren. Dies
+ist in der jeweils nächten ordentlichen Präsidiumssitzung in das Protokoll zu
+übernehmen.
 
 ### §6
 
