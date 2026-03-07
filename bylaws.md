@@ -37,7 +37,8 @@ Ausschluss nach [§4](#4) folgen.
 ### §3
 
 (1) Der Vorschlag für die Aufnahme eines neuen Mitglieds kann nur durch einen 
-Moderator oder Gründer eingebracht werden. 
+Moderator, Gründer oder einen einstimmigen Beschluss des Präsidiums eingebracht 
+werden. 
 
 (2) Wurde ein Vorschlag gemäß Absatz (1) eingebracht, so muss das Präsidium 
 prüfen, ob der Vorgeschlagene sich aktiv in der Anvilcraft Community beteiligt 
