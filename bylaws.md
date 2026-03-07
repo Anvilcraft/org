@@ -214,6 +214,15 @@ das Präsidiumsmitglied eine Protokollerklärung abgeben. Eine entsprechende
 Protokollerklärung muss in das Protokoll übernommen werden und kann nicht nach 
 Absatz (4) verändert werden.
 
+(6) Wurde ein Protokoll in zwei Präsidiumssitzungen abgelehnt, so ist in der
+dritten Präsidiumssitzung ein Moderator oder Gründer durch den Präsidenten
+hinzuzuziehen. Entsteht unter dessen Vermittlung weiterhin keine Einigung und
+wird das Protokoll weiterhin abgelehnt, so kann der Moderator oder Gründer 
+dieses ohne Zustimmung des Präsidiums in der von ihm festgelegten Fassung 
+annehmen. Präsidiumsmitglieder haben in diesem Fall das Recht, eine 
+Protokollerklärung abzugeben, auf die Absatz (5) Satz 2 entsprechend anzuwenden
+ist.
+
 ## Gründer
 
 ### §11
