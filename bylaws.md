@@ -145,9 +145,10 @@ einen einstimmigen Beschluss des Präsidiums aberkannt werden.
 Beschlusses nicht Einstimmigkeit durch die Satzung gefordert ist. 
 
 (4) Bei ordentlichen Sitzungen des Präsidiums zählen nicht abgegebene Stimmen
-als Enthaltung, bei außerordentlichen Sitzungen als Nein. Bei Beschlüssen, die 
-Einstimmigkeit erfordern zählen Enthaltungen als Nein. Anträge sind so zu stellen,
-dass eine Ablehnung keine Auswirkungen nach sich zieht.
+als Enthaltung, bei außerordentlichen Sitzungen sowie bei Beschlüssen, die 
+Einstimmigkeit erfordern, als Nein. Anträge sind so zu stellen, dass eine 
+Ablehnung keine Auswirkungen nach sich zieht. Beschlüsse, die Einstimmigkeit
+erfordern, gelten auch bei Enthaltungen als einstimmig angenommen.
 
 (5) Das Präsidium entscheidet selbst über den Ablauf und die Geschäftsordnung
 der Präsidiumssitzungen, sofern nicht bereits durch die Satzung geregelt.
