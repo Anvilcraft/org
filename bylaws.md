@@ -110,10 +110,14 @@ einen Anhang der Satzung geregelt.
 (2) Als Content Creator gilt, wer aktiv Modded Minecraft Inhalte wie Mods, 
 Modpacks, Videos, Livestreams oder Ähnliches erstellt oder einmal erstellt hat.
 
-(3) Wer die Voraussetzungen nach Absatz (2) erfüllt, wird durch einen Moderator 
-oder einen Beschluss des Präsidiums entschieden. Der Status als Content Creator 
-kann nur auf Antrag eines Moderators durch einen einstimmigen Beschluss des 
-Präsidiums aberkannt werden.
+(3) Wer die Voraussetzungen nach Absatz (2) erfüllt, wird durch das zuständige
+Vorstandsmitglied, einen Moderator oder einen Gründer entschieden. Die 
+Entscheidung des Vorstandsmitglieds oder eines Moderators kann in der jeweils
+nächsten ordentlichen Präsidiumssitzung durch einen Beschluss des Präsidiums
+abgelehnt und für ungültig erklärt werden.
+
+(4) Der Status als Content Creator kann nur auf Antrag eines Moderators durch 
+einen einstimmigen Beschluss des Präsidiums aberkannt werden.
 
 ## Präsidium
 
