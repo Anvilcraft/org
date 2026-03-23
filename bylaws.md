@@ -22,10 +22,10 @@ nach aktiver Beteiligung obliegt dem Präsidium.
 
 ### §2
 
-(1) Mitglieder haben das Recht, an Mitgliederversammlungen teilzunehmen und bei 
-diesen an Abstimmungen abzustimmen.
+(1) Mitglieder haben das Recht, an Mitgliederversammlungen teilzunehmen.
 
-(2) Mitglieder haben das Recht, an Wahlen und Mitgliederabstimmungen teilzunehmen.
+(2) Mitglieder haben das Recht, an Wahlen und Abstimmungen über Beschlüsse der 
+Mitgliederversammlung teilzunehmen.
 
 (3) Mitglieder haben das Recht, an Projekten der `Anvilcraft` Reihe teilzunehmen,
 sofern sie nicht wegen eines Regelverstoßes davon ausgeschlossen wurden.
@@ -60,7 +60,7 @@ Für die Annahme des Antrags ist ein Beschluss des Präsidiums erforderlich.
 ein Präsidiumsmitglied oder einen Beschluss der Mitgliederversammlung Einspruch 
 eingelegt werden. Ein Einspruch führt dazu, dass der Beschluss ungültig wird,
 bis der Einspruch zurückgenommen oder durch einen Beschluss der Mitglieder nach 
-[§5](#5) Absatz (3) abgelehnt wurde.
+[§5](#5) Absatz (2) abgelehnt wurde.
 
 ### §5
 
@@ -69,19 +69,21 @@ einberufen und geleitet. Die Mitglieder sind mindestens 7 Tage vor der
 Mitgliederversammlung über diese zu informieren. Mitgliederversammlungen finden 
 online statt. Auf Wunsch von mindestens einem Fünftel der Mitglieder hat das 
 zuständige Vorstandsmitglied die Mitgliederversammlung innerhalb von 21 Tagen 
-einzuberufen.
+einzuberufen. Die Mitgliederversammlung findet online statt.
 
-(2) Mitgliederabstimmungen und Wahlen werden durch das zuständige 
-Vorstandsmitglied geleitet. 
+(2) Ein Antrag über einen Beschluss der Mitgliederversammlung kann durch ein
+Mitglied, das Präsidium oder ein Vorstandsmitglied eingebracht werden. Anträge 
+für die Mitgliederversammlung sind spätestens 48 Stunden vor dieser an das 
+zuständige Vorstandsmitglied zu stellen. Den Mitgliedern ist die Möglichkeit zu 
+geben, ihre Stimme bereits einen Tag vor der Mitgliederversammlung online 
+abzugeben.
 
-(3) Ein Antrag, über den durch die Mitglieder abgestimmt wird, kann durch ein
-Mitglied, das Präsidium oder ein Vorstandsmitglied eingebracht werden. Es kann 
-mit `Ja`, `Nein` oder `Enthaltung` abgestimmt werden. Der Antrag gilt als 
-angenommen, wenn dieser mehr `Ja` als `Nein` Stimmen erhält. Ist durch die 
-Satzung eine Zweidrittelmehrheit vorgesehen, so gilt er als angenommen, wenn
-mindestens zwei Drittel der abgegebenen, von `Enthaltung` verschiedenen Stimmen 
-auf `Ja` entfallen. Den Mitgliedern sind mindestens 48 Stunden Zeit zum abstimmen 
-zu geben. Mitgliederabstimmungen finden online statt.
+(3) Über einen Antrag nach Absatz (2) kann mit `Ja`, `Nein` oder `Enthaltung` 
+abgestimmt werden. Der Antrag gilt als angenommen, wenn dieser mehr `Ja` als 
+`Nein` Stimmen erhält. Ist durch die Satzung eine Zweidrittelmehrheit vorgesehen, 
+so gilt er als angenommen, wenn mindestens zwei Drittel der abgegebenen, von 
+`Enthaltung` verschiedenen Stimmen auf `Ja` entfallen. Die Abstimmung findet 
+online statt.
 
 (4) Verbindliche Folgen eines nach Absatz (3) angenommenen Antrags ergeben sich 
 aus der Satzung oder einem Anhang der Satzung. Bezieht sich der Antrag auf keine
@@ -90,13 +92,13 @@ unverbindliche Aufforderung an das Präsidium oder den Vorstand.
 
 (5) Abstimmungen nach Absatz (3) werden offen durchgeführt, sofern nicht durch
 einen Beschluss des Präsidiums oder der Mitgliederversammlung geheime Abstimmung
-gefordert wird.
+gefordert wird. Von Absatz (2) Satz 2 und 3 kann abgewichen werden, wenn sich 
+aus dem Antrag keine verbindlichen Folgen gemäß Absatz (4) ergeben oder 
+mindestens die Hälfte der Mitglieder anwesend sind.
 
-(6) Abstimmungen nach Absatz (3) können auf einer Mitgliederversammlung 
-durchgeführt werden, sofern mindestens die Hälfte der Mitglieder anwesend ist, 
-der Antrag der Abstimmung keine verbindlichen Folgen hat oder den Mitgliedern
-bereits 24 Stunden vor der Mitgliederversammlung die Möglichkeit gegeben wurde,
-ihre Stimme abzugeben.
+(6) Über Anträge nach Absatz (2) kann auch außerhalb der Mitgliederversammlung
+abgestimmt werden. Den Mitgliedern sind dafür mindestens 48 Stunden Zeit zum 
+Abstimmen zu geben. Absatz (3) gilt entsprechend.
 
 (7) Die Mitgliederversammlung entscheidet selbst über den Ablauf und die 
 Geschäftsordnung der Sitzung, sofern nicht bereits durch die Satzung geregelt.
@@ -107,9 +109,8 @@ Teilnehmer können durch das Präsidium, den Vorstand oder eine Gruppe von
 mindestens einem Fünftel der Mitglieder eingeladen werden.
 
 (8) Das zuständige Vorstandsmitglied hat das Präsidium über die Ergebnisse von
-Mitgliederabstimmungen, Wahlen und Mitgliederversammlungen zu informieren. Dies
-ist in der jeweils nächten ordentlichen Präsidiumssitzung in das Protokoll zu
-übernehmen.
+Wahlen und  Beschlüsse der Mitgliederversammlung zu informieren. Dies ist in der 
+jeweils nächten ordentlichen Präsidiumssitzung in das Protokoll zu übernehmen.
 
 ### §6
 
@@ -273,7 +274,7 @@ sind entsprechende Zugangsdaten an die Gründer zu übertragen.
 (1) Die Wahl des Präsidiums findet jährlich im Dezember statt. Der genaue Termin 
 wird durch den Wahlleiter festgelegt und muss mindestens 2 Wochen vorher bekannt 
 gegeben werden. Zur Stimmabgabe sind mindestens 72 Stunden Zeit zu geben. Die 
-Wahl findet online statt.
+Wahl findet online statt. Der Wahlleiter ist das zuständige Vorstandsmitglied.
 
 (2) Wahlberechtigt sind alle Anvilcraft Mitglieder sowie weitere Vertreter, die 
 nach der Satzung das Wahlrecht haben.
@@ -434,10 +435,10 @@ Satzung festgelegt werden.
 (1) Satzungsänderungen können durch ein Anvilcraft Mitglied oder ein Mitglied des 
 Präsidiums vorgeschlagen werden.
 
-(2) Für eine Satzungsänderung ist ein Beschluss des Präsidiums sowie eine 
-zweidrittel Mehrheit bei einer Mitgliederabstimmung erforderlich. Wurde der 
-Beschluss des Präsidiums einstimmig geschlossen, so reicht bei der 
-Mitgliederabstimmung eine einfache Mehrheit.
+(2) Für eine Satzungsänderung ist ein Beschluss des Präsidiums sowie ein
+Beschluss der Mitgliederversammlung mit Zweidrittelmehrheit erforderlich. Wurde 
+der Beschluss des Präsidiums einstimmig geschlossen, so reicht ein einfacher 
+Beschluss der Mitgliederversammlung.
 
 (3) Die Satzung sowie ihre Anhänge werden mit Git verwaltet. Änderungen treten 
 erst in Kraft, wenn diese in den `master` branch des nach [§14](#14) Absatz (2) 
@@ -452,11 +453,11 @@ Mitglied des Präsidiums oder ein Mitglied des Vorstands vorgeschlagen werden.
 Beschluss des Präsidiums beschlossen werden.
 
 (3) Auf Beschluss des Präsidiums kann die Änderung eines Anhangs der Satzung 
-durch eine Mitgliederabstimmung beschlossen werden.
+durch einen Beschluss der Mitgliederversammlung beschlossen werden.
 
-(4) Durch eine zweidrittel Mehrheit bei einer Mitgliederabstimmung kann einem 
-Beschluss des Präsidiums nach Absatz (2) widersprochen und der Beschluss für 
-ungültig erklärt werden.
+(4) Die Mitgliederversammlung kann durch einen Beschluss mit Zweidrittelmehrheit
+einem Beschluss des Präsidiums nach Absatz (2) widersprechen und diesen für
+ungültig erklären.
 
 ### §29
 
@@ -476,11 +477,11 @@ ausschließlich gemäß [§28](#28) Absatz (2) oder (3) beschlossen werden.
 
 ### §30
 
-(1) Durch einen Anhang der Satzung können Stimmrechte bei Wahlen, 
-Mitgliederversammlungen und Mitgliederabstimmungen an mit der Anvilcraft 
-Community in Verbindung stehende Gruppen verliehen werden. Diese können gemäß der 
-Vorgaben des entsprechenden Anhangs im Einzelfall durch die Gruppe ausgeübt oder 
-auf einen Vertreter übertragen werden.
+(1) Durch einen Anhang der Satzung können Stimmrechte bei Wahlen und
+Mitgliederversammlungen an mit der Anvilcraft Community in Verbindung stehende 
+Gruppen verliehen werden. Diese können gemäß der Vorgaben des entsprechenden 
+Anhangs im Einzelfall durch die Gruppe ausgeübt oder auf einen Vertreter 
+übertragen werden.
 
 (2) Die Anzahl der insgesamt nach Absatz (1) verliehen Stimmrechte darf nicht 
 mehr als einem Fünftel der Anzahl der Anvilcraft Mitglieder entsprechen.
