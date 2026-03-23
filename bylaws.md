@@ -320,17 +320,18 @@ des Präsidiums gewählt.
 Anhang darf keiner satzungsmäßigen Bestimmung widersprechen und muss insbesondere
 die Umsetzung von Absatz (3) und (6) sicherstellen.
 
+## Ehrenmitglieder
+
 ### §16
 
-(1) Die Ehrenmitgliedschaft wird durch die Satzung oder einen Anhang der Satzung 
-verliehen. 
-
-(2) Ehrenmitglieder gelten als Mitglieder gemäß [§1](#1) und haben alle sich aus
+(1) Ehrenmitglieder gelten als Mitglieder gemäß [§1](#1) und haben alle sich aus
 [§2](#2) ergebenden Rechte.
 
+(2) Die Ehrenmitgliedschaft wird durch die Satzung oder einen Anhang der Satzung 
+verliehen. 
+
 (3) Die Gründer sind Ehrenmitglieder gemäß Absatz (1), haben jedoch abweichend 
-von Absatz (2) nicht die sich aus [§2](#2) Absatz (2) ergebenden Stimm- und 
-Wahlrechte.
+davon nicht die sich aus [§2](#2) Absatz (2) ergebenden Stimm- und Wahlrechte.
 
 ### §17
 
