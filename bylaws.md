@@ -69,7 +69,7 @@ einberufen und geleitet. Die Mitglieder sind mindestens 7 Tage vor der
 Mitgliederversammlung über diese zu informieren. Mitgliederversammlungen finden 
 online statt. Auf Wunsch von mindestens einem Fünftel der Mitglieder hat das 
 zuständige Vorstandsmitglied die Mitgliederversammlung innerhalb von 21 Tagen 
-einzuberufen. Die Mitgliederversammlung findet online statt.
+einzuberufen.
 
 (2) Ein Antrag über einen Beschluss der Mitgliederversammlung kann durch ein
 Mitglied, das Präsidium oder ein Vorstandsmitglied eingebracht werden. Anträge 
