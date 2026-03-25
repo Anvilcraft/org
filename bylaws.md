@@ -2,7 +2,24 @@
 
 ## Präambel
 
-(Inhalt gemäß [§31](#31) Absatz (3) später zu ergänzen.)
+Das Anvilcraft-Projekt wurde im Jahr 2018 als Nachfolgeinitiative des 
+Glow-Multiplayer-Projekts sowie der Community-Server der 
+austriangamers390-Community ins Leben gerufen. In Anerkennung dieses Ursprungs 
+versteht sich die Anvilcraft-Community als offene und gemeinschaftsorientierte 
+Plattform, die insbesondere an modifiziertem Minecraft interessierte 
+Content Creator, Mod-Entwickler sowie Spieler zusammenführt.
+
+Ziel der Community ist es, durch die regelmäßige Durchführung gemeinschaftlicher 
+Multiplayer-Projekte den Austausch und die Zusammenarbeit zwischen 
+Content Creatorn und der breiteren Community zu fördern. Darüber hinaus widmet 
+sich Anvilcraft der Entwicklung von Minecraft-Modifikationen, Modpacks sowie 
+weiterer Open-Source-Software und der Veröffentlichung offener Standards und 
+Spezifikationen.
+
+Die Anvilcraft-Community heißt an Minecraft sowie an Softwareentwicklung 
+interessierte Personen aus unterschiedlichen Communities willkommen und 
+versteht sich als Netzwerk für kreativen, technischen und gemeinschaftlichen 
+Austausch.
 
 ## Mitglieder
 
