@@ -20,9 +20,9 @@ durch alle anwesenden Content Creators gemeinsam ausgeübt.
 
 (2) Für die gemeinsame Ausübung der Stimmrechte nach Absatz (1) gelten folgende
 Regelungen:
-1. Stimmen mehr als zwei Drittel der anwesenden, Content Creators gleich ab, so 
+1. Stimmen mehr als zwei Drittel der anwesenden Content Creators gleich ab, so 
 wird mit drei Stimmen für die stimmenstärkste Meinung abgestimmt
-2. Stimmen mehr als die Hälfte der anwesenden, Content Creators gleich ab, so 
+2. Stimmen mehr als die Hälfte der anwesenden Content Creators gleich ab, so 
 wird mit zwei Stimmen für die stimmenstärkste und mit einer Stimme für die 
 stimmenzweitstärkste Meinung abgestimmt
 3. Ansonsten wird mit mit jeweils einer Stimme für die drei stimmstärksten
