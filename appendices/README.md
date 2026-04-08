@@ -7,3 +7,4 @@
 5. [Änderungen von Dokumenten und Spezifikationen](./documents.md)
 6. [Abweichung von den Wahlvorschriften](./elections.md)
 7. [Content Creator Ordnung der Anvilcraft Community](./appendix-7.md)
+8. [Verleihung von Sonderstimmrechten](./appendix-9.md)
