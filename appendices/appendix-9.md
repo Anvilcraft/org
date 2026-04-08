@@ -25,5 +25,5 @@ wird mit drei Stimmen für die stimmenstärkste Meinung abgestimmt
 2. Stimmen mehr als die Hälfte der anwesenden Content Creators gleich ab, so 
 wird mit zwei Stimmen für die stimmenstärkste und mit einer Stimme für die 
 stimmenzweitstärkste Meinung abgestimmt
-3. Ansonsten wird mit mit jeweils einer Stimme für die drei stimmstärksten
+3. Ansonsten wird mit mit jeweils einer Stimme für die drei stimmenstärksten
 Meinungen abgestimmt
