@@ -110,7 +110,7 @@ mindestens einem Fünftel der Mitglieder eingeladen werden.
 
 (8) Das zuständige Vorstandsmitglied hat das Präsidium über die Ergebnisse von
 Wahlen und  Beschlüsse der Mitgliederversammlung zu informieren. Dies ist in der 
-jeweils nächten ordentlichen Präsidiumssitzung in das Protokoll zu übernehmen.
+jeweils nächsten ordentlichen Präsidiumssitzung in das Protokoll zu übernehmen.
 
 ### §6
 
