@@ -7,7 +7,6 @@ Folgende Geschäftsbereiche werden gemäß [§21](../bylaws.md#21) festgelegt:
 - Creator Relations
 - Projects
 - Development
-- Content Creation
 - Events
 - Hammered
 - Common Affairs
@@ -27,10 +26,9 @@ Creators im Modded Minecraft Bereich zuständig.
 ## IV. Projects
 
 Der Geschäftsbereich Projects ist für die Planung und Leitung von
-Minecraft Multiplayer Projekten zuständig. Darunter
-fällt insbesondere das Anvilcraft Projekt, jedoch auch
-jedes andere Multiplayer Projekt der Anvilcraft Community,
-sowie die Planung neuer Projekte.
+Minecraft Multiplayer Projekten sowie für die Entwicklung von Modpacks zuständig. 
+Darunter fallen insbesondere das Anvilcraft Projekt und Modpack sowie die Planung 
+neuer Projekte.
 
 ## V. Development
 
@@ -39,26 +37,13 @@ von Software der Anvilcraft Community, sowie von Software,
 welche in Kooperation von Anvilcraft mit externen 
 Entwicklerteams entwickelt wird, zuständig. Zu Software
 der Anvilcraft Community zählen ebenso Websites und Services,
-welche von der Anvilcraft Community betrieben werden. 
-Der Quellcode von Software der Anvilcraft Community muss
+welche von der Anvilcraft Community betrieben werden, sowie Mods der Anvilcraft
+Community. Der Quellcode von Software der Anvilcraft Community muss
 auf [tilera Git](https://git.tilera.org/Anvilcraft)
 veröffentlicht werden. Für in Kooperation entstandene Software
 gelten die Vereinbarungen der Kooperation. 
 
-## VI. Content Creation
-
-Der Geschäftsbereich Content Creation ist für die Erstellung und 
-Entwicklung von Mods und Modpacks der Anvilcraft Community
-zuständig. Darunter fällt insbesondere das Anvilcraft
-Modpack. Das Content Creation Team kann jederzeit neue
-Mods oder Modpacks im Namen der Anvilcraft Community
-erstellen. Mods werden in Kooperation mit dem
-[Development Team](#development) entwickelt,
-sämtliche kreative Entscheidungen liegen dabei jedoch bei dem
-für Content Creation zuständigen Vorstandsmitglied. Der Quellcode 
-von Anvilcraft Mods und Modpacks muss auf 
-[tilera Git](https://git.tilera.org/Anvilcraft)
-veröffentlicht werden.
+## VI. (weggefallen)
 
 ## VII. Events
 
