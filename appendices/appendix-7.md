@@ -32,4 +32,13 @@ der Satzung.
 ## III. Vorschlagsrecht für das Präsidium
 
 (1) Jeder Content Creator hat das Recht, einen Vorschlag für die Wahl des 
-Präsidiums nach §17 einzureichen.
+Präsidiums nach §6 Absatz (1) einzureichen. Vorschläge sind mindestens 7 Tage vor 
+der Wahl einzureichen und zu veröffentlichen.
+
+(2) Auf Antrag eines Content Creators ist über einen nach Absatz (1) eingereichten
+Vorschlag abzustimmen. Entfällt die Mehrheit der abgegebenen Stimmen gegen den
+Vorschlag, so ist dieser abgelehnt. Für die Abstimmung sind 48 Stunden Zeit zu 
+geben.
+
+(3) Wird ein Vorschlag gemäß Absatz (2) abgelehnt, so gilt dieser nicht als nach 
+§6 Absatz (1) vorgeschlagen.
