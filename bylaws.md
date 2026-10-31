@@ -203,15 +203,15 @@ Präsidium beschlossen.
 (2) Die erste Sitzung des Präsidiums nach der Wahl gilt als ordentliche Sitzung.
 
 (3) Der Präsident kann das Präsidium jederzeit zu einer außerordentlichen Sitzung
-zusammenrufen. Er hat die Präsidiumsmitglieder mindestens 48 Stunden vor der 
-Sitzung zu informieren.
+zusammenrufen. Er ist hierzu innerhalb von 14 Tagen verpflichtet, wenn ein 
+Präsidiumsmitglied dies verlangt. Der Präsident hat die Präsidiumsmitglieder 
+mindestens 48 Stunden vor der Sitzung zu informieren.
 
-(4) Eine ordentliche Sitzung des Präsidiums hat mindestens einmal im 
-Kalendermonat stattzufinden. Wird für einen Kalendermonat keine ordentliche 
-Sitzung nach Absatz (1) beschlossen, so gilt die erste nach Absatz (3) 
-zusammengerufene Sitzung in dem entsprechenden Monat als ordentliche Sitzung.
+(4) Wird für einen Kalendermonat keine ordentliche Sitzung nach Absatz (1) 
+beschlossen, so gilt die erste nach Absatz (3) zusammengerufene Sitzung in dem 
+entsprechenden Monat als ordentliche Sitzung.
 
-(5) Von Absatz (3) Satz 2 kann aufgrund von [§7](#7) Absatz (5) abgewichen
+(5) Von Absatz (3) Satz 3 kann aufgrund von [§7](#7) Absatz (5) abgewichen
 werden. Von Absatz (4) kann durch einstimmigen Beschluss des Präsidiums 
 abgewichen werden.
 
