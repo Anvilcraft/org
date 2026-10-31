@@ -33,3 +33,19 @@ der Satzung.
 
 (1) Jeder Content Creator hat das Recht, einen Vorschlag für die Wahl des 
 Präsidiums nach §17 einzureichen.
+
+## IV. Stimmrechtsausübung bei Wahlen
+
+(1) Während der Wahl des Präsidiums sowie des Präsidenten können die Content 
+Creators ihre nach Anhang 9 verliehenen Stimmrechte abgeben. Den Content Creators
+sind hierfür 48 Stunden zu geben.
+
+(2) Nach Anhang 9 an die Content Creators verliehene Stimmrechte werden bei
+der Erst- und Zweitstimme von Wahlen zum Präsidium sowie bei Wahlen des 
+Präsidenten nach dem in Anhang 9 Abschnitt II. Absatz (2) festgelegten Verfahren
+vergeben.
+
+(3) Für die Drittstimme bei Wahlen zum Präsidium können die Content Creators für 
+jeden Kandidaten mit `Ja`, `Nein` oder `Enthaltung` abstimmen. Die nach Anhang 9 
+an die Content Creators verliehenen Stimmrechte werden an alle Kandidaten vergeben,
+auf die mehr `Ja` als `Nein` Stimmen entfielen.
